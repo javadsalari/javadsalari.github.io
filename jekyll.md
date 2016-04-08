@@ -21,7 +21,6 @@ permalink: /jekyll/
 
   <article itemprop="articleBody" class="post-content">
     <div class="container centeralized">
-	<img src="../img/jekyll.png" alt="jekyll logo" width="498" height="230">
 </div>
 <p>همونطور که تو پست قبلی قولش رو داده بودم اینجا قصد دارم یه توضیح و آموزشی در مورد jekyll داشته باشم.امیدوارم که از این برنامه و آموزش اون در اینجا خوشتون بیاد.
 یکی از مشکلاتی که jekyll داره و شاید اکثر برنامه های این شکلی دارن اینه که تو ویندوز به درستی کار نمی کنن. در واقع این برنامه ها برای سیستم عامل لینوکس ساخته میشن.
@@ -115,7 +114,7 @@ permalink: /jekyll/
 
   <article itemprop="articleBody" class="post-content">
     <div class="container centeralized">
-	<img src="../img/jekyll_github.png" alt="jekyll and github logo" width="600" height="230">
+	
 </div>
 <p>در قسمت دوم آموزش نصب jekyll، نحوه اتصال این برنامه به یک صفحه github و طریقه پیکربندی اون رو توضیح خواهم داد. در اینجا نکته ای که بسیار اهمیت داره نحوه پیکربندی برنامه تو ویندوز هست.
 چون اجرای jekyll روی ویندوز با تنظیمات پیش فرض github به دلیل ناسازگاری افزونه هایی مثل pygments پیغام خطا میده.</p>
